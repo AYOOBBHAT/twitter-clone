@@ -1,6 +1,7 @@
+
 #include <iostream>;
 using namespace std;
-
+// matrix way;
 int main()
 {
 // enter nodes,edges;
